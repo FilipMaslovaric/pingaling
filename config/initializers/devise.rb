@@ -276,5 +276,5 @@ Devise.setup do |config|
   # config.omniauth_path_prefix = '/my_engine/users/auth'
 
   # Declare Facebook as provider for omni-auth
-  config.omniauth :facebook, "APP_ID", "APP_SECRET"
+  config.omniauth :facebook, "567076950290246", "a77e8281843f5df53da48c5ae8d4783c"
 end
